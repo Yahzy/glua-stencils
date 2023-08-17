@@ -13,6 +13,7 @@ function Start()
 	end
 
 	opened = true
+
 	render.ClearStencil()
 	render.SetStencilEnable(true)
 	
